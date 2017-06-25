@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: hatenablog
+Version: 0.0.1
+Summary: A Python wrapper for HatenaBlog's API.
+Home-page: https://github.com/takeshi0406/
+Author: takeshi0406
+Author-email: sci.and.eng@gmail.com
+License: MIT
+Description: UNKNOWN
+Keywords: hatenablog api wrapper
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.6
+Classifier: License :: OSI Approved :: MIT License

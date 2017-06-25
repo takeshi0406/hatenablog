@@ -1,0 +1,8 @@
+setup.py
+hatenablog/__init__.py
+hatenablog/hatenablog.py
+hatenablog.egg-info/PKG-INFO
+hatenablog.egg-info/SOURCES.txt
+hatenablog.egg-info/dependency_links.txt
+hatenablog.egg-info/requires.txt
+hatenablog.egg-info/top_level.txt
